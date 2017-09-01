@@ -12,8 +12,12 @@
 	position: relative;
 	float: right;
 }
-
 .menu li {
 	float: left;
 	margin: 10px;
+}
+
+.sidebar {
+	float: right;
+	width: 200px;
 }
