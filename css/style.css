@@ -2,3 +2,13 @@
 	margin: 0;
 	padding: 0;
 }
+
+.menu {
+	overflow: hidden;
+	position: relative;
+}
+
+.menu li {
+	float: left;
+	margin: 10px;
+}
