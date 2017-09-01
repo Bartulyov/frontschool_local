@@ -12,8 +12,11 @@
 	position: relative;
 	float: right;
 }
-
 .menu li {
 	float: left;
 	margin: 10px;
+}
+
+.main {
+	background-color: #fff;
 }
