@@ -3,9 +3,14 @@
 	padding: 0;
 }
 
+.header {
+	position: relative;
+	overflow: hidden;
+}
 .menu {
 	overflow: hidden;
 	position: relative;
+	float: right;
 }
 
 .menu li {
