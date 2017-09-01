@@ -20,3 +20,7 @@
 .main {
 	background-color: #fff;
 }
+.sidebar {
+	float: right;
+	width: 200px;
+}
